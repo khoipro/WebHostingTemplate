@@ -1,7 +1,7 @@
 # Web Hosting Template (Static)
 
 ## Live Preview 
-Deployed [**Here**]()
+Deployed [**Here**](http://yc-webhostingtemplate.bitballoon.com/)
 
 ## Programming/Markup Languages used:
 1. HTML 
@@ -20,16 +20,18 @@ Deployed [**Here**]()
 
 ## Pages 
 1. Home/Index
-2. Product
+2. Domains
+3. Contact
 
 ## Others
 1. [Font Awesome](http://fontawesome.io/)
+2. [Bootswatch](https://bootswatch.com/)
 
 ## Preview 
 **Web View**
 
-![Web View]()
+![Web View](https://github.com/yclim95/WebHostingTemplate/blob/master/img/webPreview.png)
 
 **Mobile View**
 
-![Mobile View]()
+![Mobile View](https://github.com/yclim95/WebHostingTemplate/blob/master/img/mobilePreview.png)
