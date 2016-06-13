@@ -32,6 +32,10 @@ section {
     height: 500px;
 }
 
+.feature-list{
+    list-style: none;
+}
+
 .server-img{
     width: 100%;
 }
